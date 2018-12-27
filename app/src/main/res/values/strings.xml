@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoDeleteOTCMedia</string>
+    <string name="permission_denied_close_app">Permissions denied. Closing app!</string>
+</resources>
